@@ -13,7 +13,4 @@ Tkinter es la biblioteca estándar de Python para crear interfaces gráficas de 
 - **Widgets Ricos**: Incluye una variedad de widgets como botones, etiquetas, campos de entrada y más.
 - **Personalización**: Permite personalizar la apariencia y el comportamiento de los elementos de la interfaz.
 
-Tkinter se incluye por defecto en la mayoría de las instalaciones de Python. No necesitas instalar paquetes adicionales. Para comprobar si lo tienes instalado, simplemente importa `tkinter` en tu código:
-
-```python
-import tkinter
+Tkinter se incluye por defecto en la mayoría de las instalaciones de Python. No necesitas instalar paquetes adicionales.
